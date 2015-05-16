@@ -10,7 +10,7 @@ behind their implemenation, where appropriate. As with all CodeIgniter
 documentation, this file should maintain a mostly human readable
 format to facilitate clean api design. [see http://arrenbrecht.ch/testing/]
 
-*First public draft: everything is subject to change*
+                                                             *First public draft: everything is subject to change*
 
 ### Requirements
 

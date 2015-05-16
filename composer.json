@@ -2,7 +2,8 @@
 	"description" : "Dependencies for CodeIgniter's testing environment",
 	"name" : "ellislab/codeigniter",
 	"require": {
-		"php": ">=5.2.4"
+		"php": ">=5.2.4",
+		"phpunit/phpunit": "^4.6"
 	},
 	"require-dev": {
 		"mikey179/vfsStream": "1.1.*"

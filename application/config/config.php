@@ -40,8 +40,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | path to your installation.
 |
 */
-$config['base_url']	= '';
-
+$config['base_url']	= 'http://powerplan101.local';
+$config['host']     = $_SERVER['HTTP_HOST'];
 /*
 |--------------------------------------------------------------------------
 | Index File
@@ -52,7 +52,7 @@ $config['base_url']	= '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -319,7 +319,7 @@ $config['cache_path'] = '';
 | http://codeigniter.com/user_guide/libraries/sessions.html
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'ThatYW3MakeDaB1GBuck2';
 
 /*
 |--------------------------------------------------------------------------
